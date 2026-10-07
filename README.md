@@ -1,24 +1,16 @@
 <h1 align="center">Dan Fletcher</h1>
 
-<p align="center"><b>Operator turned agent builder</b></p>
+<p align="center"><b>Operator (complex and messy logistics), agent builder, forward-deployed engineer</b></p>
 
 <p align="center">
-I build multi-agent systems and the deterministic tools those agents are trusted to call.<br>
-Before that I spent 8 years founding and running ops: a haulage business (five vans, an HGV, 970+ deliveries),<br>
-then an international live events platform I grew from £40k to £120k.
+I build multi-agent systems and tools for autonomous systems.<br>
+I spent 8 years founding and running ops: residential land development, haulage,<br>
+then an international live events platform I grew to £120k revenue.
 </p>
 
-<p align="center"><i>Find the process running on people, spreadsheets and WhatsApp threads. Shadow it first, then automate it.</i></p>
+<p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then automate and scale.</i></p>
 
-<h3 align="center">What I'm building</h3>
-
-<p align="center">
-<a href="https://github.com/danrfletcher/hcrs-claim-workflow"><b>HCRS-1 claim pipeline</b></a>: two independent LLM extraction passes, a deterministic six-gate rules engine, tested against an adversarial eval set<br>
-<b>Eight agents in production</b>: an autonomous build pipeline, email triage with prompt-injection containment, planning and coaching agents (private)<br>
-<a href="https://github.com/danrfletcher/agy-proxy"><b>agy-proxy</b></a>: self-hosted LLM gateway with OpenAI and Anthropic compatible APIs and per-key quotas
-</p>
-
-<p align="center">AWS Solutions Architect – Associate · HGV C+E · Transport Manager CPC · Paramotor pilot</p>
+<p align="center">AWS Certified Solutions Architect · Transport Manager CPC · Paramotor pilot</p>
 
 <br>
 
