@@ -1,14 +1,14 @@
 <h1 align="center">Dan Fletcher</h1>
 
-<p align="center"><b>Operator (complex and messy logistics), agent builder, forward-deployed engineer</b></p>
+<p align="center"><b>Forward-deployed Engineer</b></p>
 
 <p align="center">
 I build multi-agent systems and tools for autonomous systems.<br>
-I spent 8 years founding and running ops: residential land development, haulage,<br>
+8 years founding and running messy ops: residential land development, haulage,<br>
 then an international live events platform I grew to £120k revenue.
 </p>
 
-<p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then automate.</i></p>
+<p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then automate</i></p>
 
 <p align="center">AWS Certified Solutions Architect · Transport Manager CPC · Paramotor pilot</p>
 
