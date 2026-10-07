@@ -16,7 +16,7 @@ then an international live events platform I grew to £120k revenue.
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/WEBSITE-COMING_SOON-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
-<a href="https://www.youtube.com/@danrfletcher"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.youtube.com/@FierceFletch"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://x.com/fiercefletch"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://www.linkedin.com/in/danrfletcher/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
