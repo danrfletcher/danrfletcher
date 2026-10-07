@@ -8,7 +8,7 @@ I spent 8 years founding and running ops: residential land development, haulage,
 then an international live events platform I grew to £120k revenue.
 </p>
 
-<p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then automate and scale.</i></p>
+<p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then automate.</i></p>
 
 <p align="center">AWS Certified Solutions Architect · Transport Manager CPC · Paramotor pilot</p>
 
