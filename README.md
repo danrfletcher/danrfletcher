@@ -10,7 +10,7 @@ then an international live events platform I grew to £120k revenue.
 
 <p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then automate</i></p>
 
-<p align="center">AWS Certified Solutions Architect · Transport Manager CPC · Paramotor pilot</p>
+<p align="center">AWS Certified Solutions Architect · Transport Management CPC · Paramotor pilot</p>
 
 <br>
 
