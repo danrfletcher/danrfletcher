@@ -3,7 +3,7 @@
 <p align="center"><b>Forward-deployed Engineer</b></p>
 
 <p align="center">
-I build multi-agent systems and tools for autonomous systems.<br>
+I build trusted multi-agent systems with evals and traces and agentic tools for autonomous systems.<br>
 8 years founding and running messy ops: residential land development, haulage,<br>
 then an international live events platform I grew to £120k revenue.
 </p>
