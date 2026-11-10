@@ -4,8 +4,8 @@
 
 <p align="center">
 I build trusted multi-agent systems with evals and traces and agentic tools for autonomous systems.<br>
-8 years founding and running messy ops: residential land development, haulage,<br>
-then an international live events platform I grew to £120k revenue.
+8 years founding and running messy ops: haulage, then international live events<br>
+across Europe, North America & North Africa broadcast to audiences of 1m+.
 </p>
 
 <p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then deploy automations people can actually trust.</i></p>
