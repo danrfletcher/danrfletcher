@@ -10,7 +10,7 @@ across Europe, North America & North Africa broadcast to audiences of 1m+.
 
 <p align="center"><i>I put myself at the centre of processes running on people, spreadsheets and group chats → then deploy automations people can actually trust.</i></p>
 
-<p align="center">AWS Certified Solutions Architect · Transport Management CPC · Paramotor pilot</p>
+<p align="center">AWS Certified Solutions Architect · UK Logistics Transport Management CPC · Paramotor pilot</p>
 
 <br>
 
